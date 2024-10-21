@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a Ph.D. student in Computer Science and Technology at Beihang University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest is **Artificial Intelligence for Healthcare**, especially **Medical Image Processing** and **Bioinformatics mining**. I think AI can help doctors accomplish faster and more accurate clinical screening and diagnosis. And it can uncover details that cannot be seen with the eyes. AI for Healthcare is expected to lead to a healthier society.
+
+If you are interested in my work or have any potential collaborations and research, please feel free to [email me](yqZhang@buaa.edu.cn). I'd love to meet great researchers or doctors.
 
 
 # 🔥 News
@@ -34,51 +36,51 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Yuqi Zhang**, Bole Ma, Luyang Jin, Yuancheng Yang, Chao Tong
 
-**Pattern Recognition**
+**Pattern Recognition**, 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/Machine-learning-based models.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BioData Mining</div><img src='images/Machine-learning-based models.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Machine-learning-based models to predict cardiovascular risk using oculomics and clinic variables in KNHANES](https://link.springer.com/article/10.1186/s13040-024-00363-3)
 
 **Yuqi Zhang**, Sijin Li, Weijie Wu, Yanqing Zhao, Jintao Han, Chao Tong, Niansang Luo, Kun Zhang
 
-**BioData Mining**
+**BioData Mining**, 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/CA-UNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interdisciplinary Sciences: Computational Life Sciences</div><img src='images/CA-UNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [CA-UNet Segmentation Makes a Good Ischemic Stroke Risk Prediction](https://link.springer.com/article/10.1007/s12539-023-00583-x)
 
 **Yuqi Zhang**, Mengbo Yu, Chao Tong, Yanqing Zhao, Jintao Han 
 
-**Interdisciplinary Sciences: Computational Life Sciences**
+**Interdisciplinary Sciences: Computational Life Sciences**, 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/D-scheduler.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science China Technological Sciences</div><img src='images/D-scheduler.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [D-scheduler: A scheduler in time-triggered distributed system through decoupling dependencies between tasks and messages](https://link.springer.com/article/10.1007/s11431-023-2492-8)
 
 Tingting Yang, **Yuqi Zhang**, Fenglai Yue, Qiqige Wuniri, Chao Tong 
 
-**Science China Technological Sciences**
+**Science China Technological Sciences**, 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/Semantic-aligned.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Image and Vision Computing</div><img src='images/Semantic-aligned.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Semantic-aligned reinforced attention model for zero-shot learning](https://link.springer.com/article/10.1186/s13040-024-00363-3)
 
 Zaiquan Yang, **Yuqi Zhang**(Equal Contributions), Yuxin Du, Chao Tong
 
-**Image and Vision Computing**
+**Image and Vision Computing**, 2022
 </div>
 </div>
 
