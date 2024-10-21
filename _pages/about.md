@@ -21,7 +21,7 @@ I am currently a Ph.D. student in Computer Science and Technology at Beihang Uni
 
 My research interest is **Artificial Intelligence for Healthcare**, especially **Medical Image Processing** and **Bioinformatics mining**. I think AI can help doctors accomplish faster and more accurate clinical screening and diagnosis. And it can uncover details that cannot be seen with the eyes. AI for Healthcare is expected to lead to a healthier society.
 
-If you are interested in my work or have any potential collaborations and research, please feel free to [email me](yqZhang@buaa.edu.cn). I'd love to meet great researchers or doctors.
+If you are interested in my work or have any potential collaborations and research, please feel free to [email me](yqZhang@buaa.edu.cn). I'd like to meet quality researchers or doctors.
 
 
 # 🔥 News
