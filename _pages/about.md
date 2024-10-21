@@ -29,13 +29,43 @@ My research interest includes neural machine translation and computer vision. I 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/CosineTR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [CosineTR: A dual-branch transformer-based network for semantic line detection](https://www.sciencedirect.com/science/article/pii/S0031320324007039)
-
 **Yuqi Zhang**, Bole Ma, Luyang Jin, Yuancheng Yang, Chao Tong
-
 **Pattern Recognition**
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/Machine-learning-based models.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Machine-learning-based models to predict cardiovascular risk using oculomics and clinic variables in KNHANES](https://link.springer.com/article/10.1186/s13040-024-00363-3)
+**Yuqi Zhang**, Sijin Li, Weijie Wu, Yanqing Zhao, Jintao Han, Chao Tong, Niansang Luo, Kun Zhang
+**BioData Mining**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/CA-UNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[CA-UNet Segmentation Makes a Good Ischemic Stroke Risk Prediction](https://link.springer.com/article/10.1007/s12539-023-00583-x)
+**Yuqi Zhang**, Mengbo Yu, Chao Tong, Yanqing Zhao, Jintao Han 
+**Interdisciplinary Sciences: Computational Life Sciences**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/D-scheduler.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[D-scheduler: A scheduler in time-triggered distributed system through decoupling dependencies between tasks and messages](https://link.springer.com/article/10.1007/s11431-023-2492-8)
+Tingting Yang, **Yuqi Zhang**, Fenglai Yue, Qiqige Wuniri & Chao Tong 
+**Science China Technological Sciences**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/Machine-learning-based models.png.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Semantic-aligned reinforced attention model for zero-shot learning](https://link.springer.com/article/10.1186/s13040-024-00363-3)
+Zaiquan Yang, **Yuqi Zhang**(Equal Contributions), Yuxin Du, Chao Tong
+**Image and Vision Computing**
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024.10* Beihang University Merit Student
@@ -46,7 +76,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2020.06* Beihang Outstanding Graduates of Beijing Province
 
 # 📖 Educations
-- *2023.09 - now*, PhD of Computer Science and Technology, Beihang University, Beijing, China. 
+- *2023.09 - Now*, PhD of Computer Science and Technology, Beihang University, Beijing, China. 
 - *2021.09 - 2023.06*, Master of Software Engineering, Beihang University, Beijing, China. 
 - *2016.09 - 2020.06*, Bachelor of Computer Science and Technology, Beihang University, Beijing, China. 
 
