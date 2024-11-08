@@ -85,6 +85,7 @@ Zaiquan Yang, **Yuqi Zhang**(Equal Contributions), Yuxin Du, Chao Tong
 </div>
 
 # 🎖 Honors and Awards
+- *2024.10* Beihang University First Prize Scholarship
 - *2024.10* Beihang University Merit Student
 - *2023.10* Beihang University Merit Student
 - *2022.10* Beihang University President Scholarship
