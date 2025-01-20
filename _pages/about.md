@@ -25,6 +25,7 @@ If you are interested in my work or have any potential collaborations and resear
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by BMC Medical Informatics and Decision Making.
 - *2024.08*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition (PR).
 
 # 📝 Publications 
