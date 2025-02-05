@@ -30,6 +30,17 @@ If you are interested in my work or have any potential collaborations and resear
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/AF.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[A machine learning-based model for predicting paroxysmal and persistent atrial fibrillation based on EHR](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-025-02880-5)
+
+**Yuqi Zhang**, Sijin Li, Peibiao Mai, Yanqi Yang, Niansang Luo, Chao Tong, Kuan Zeng, Kun Zhang
+
+**BMC Medical Informatics and Decision Making**, 2025
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/CosineTR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
