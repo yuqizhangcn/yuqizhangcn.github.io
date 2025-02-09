@@ -88,7 +88,7 @@ Tingting Yang, **Yuqi Zhang**, Fenglai Yue, Qiqige Wuniri, Chao Tong
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Image and Vision Computing</div><img src='images/Semantic-aligned.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Semantic-aligned reinforced attention model for zero-shot learning](https://link.springer.com/article/10.1186/s13040-024-00363-3)
+[Semantic-aligned reinforced attention model for zero-shot learning](https://www.sciencedirect.com/science/article/pii/S0262885622002153)
 
 Zaiquan Yang, **Yuqi Zhang**(Equal Contributions), Yuxin Du, Chao Tong
 
