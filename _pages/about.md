@@ -30,7 +30,7 @@ latest_posts:
 
 <p> I am currently an Assistant Researcher at <strong>Zhongguancun Laboratory</strong>, having received both my B.S. and Ph.D. degrees from <strong>Beihang University</strong>.</p>
 
-<p> My research interests primarily lie in <strong>Computer Vision</strong> and <strong>Deep Learning</strong>. I am dedicated to exploring advanced algorithms and neural network architectures to solve complex visual understanding problems and push the boundaries of machine intelligence. I believe that developing robust and efficient AI models is the key to empowering next-generation technologies.</p>
+<p> My research interests primarily lie in <strong>Computer Vision</strong> and <strong>Deep Learning</strong>. I am dedicated to exploring advanced algorithms and neural network architectures to solve complex visual understanding problems and push the boundaries of machine intelligence.</p>
 
 <p> If you are interested in my work or are open to potential research collaborations, please feel free to email me at yqZhang@buaa.edu.cn. I am always eager to connect with outstanding researchers and engineers.</p>
 
